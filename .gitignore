@@ -7,6 +7,11 @@
 # Input and output directories
 input/
 output/
+stanford_dog/
+animal-pose-data/
+Images/
+stanford_dog/
+runs/
 
 # PyTorch model files
 *.pt
